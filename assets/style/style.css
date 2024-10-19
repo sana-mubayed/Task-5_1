@@ -1,0 +1,45 @@
+*{
+    padding: 0%;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+body, html {
+    height: 100%; 
+    margin: 0; 
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    background-color: #eeccff; 
+}
+.container{
+    width: 425px;
+
+}
+.card{
+    background-color: #fafafa;
+    
+}
+.blue{
+    background-color: #ebf4f3;
+    color: #747577;
+}
+.blue-2{
+    background-color: #eceff4;
+    color: #0e1317;
+}
+.number , .operation{
+padding: 10px;
+}
+.zahr,.pink{
+color: #56525e;
+}
+.zahr{
+    background-color: #ebd9f1;
+}
+.pink{
+
+    background-color: #e2adcb;
+}
+.col-3{
+height: 100px;
+}
